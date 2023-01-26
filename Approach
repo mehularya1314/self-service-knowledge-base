@@ -1,0 +1,4 @@
+To create this, you would need to use a frontend JavaScript framework or library for building the user interface, such as Svelte or Next.js, React.js. 
+On the backend, you could use Nest.js or Express.js with Node.js for creating the API that the frontend will communicate with. As for the database, you could use Postgres for storing the articles, videos, and FAQs.
+And also Supabase could be used as a realtime and fully-managed backend for your web and mobile apps. It would also be important to include authentication and authorization functionality to provide a password-protected interface for adding and managing the knowledge base content. Additionally, you would need to implement a search functionality to allow users to easily find the information they need.
+
